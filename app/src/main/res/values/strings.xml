@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bitmap</string>
+    <array name="types">
+        <item>JPEG</item>
+        <item>PNG</item>
+        <item>WEBP</item>
+    </array>
+</resources>
